@@ -40,7 +40,7 @@ MediaRecommender is a simple, console-based C# program that generates personaliz
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/MediaRecommender.git
+git clone https://github.com/frodrigss/MediaRecommender.git
 ```
 
 2. Open the solution in Visual Studio, Rider, or your preferred C# IDE.
