@@ -1,0 +1,67 @@
+# Ignore build outputs
+/bin/
+/obj/
+
+# Visual Studio / Rider
+/.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.cache
+
+# NuGet
+/packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# DotNet user-secrets
+secrets.json
+
+# Azure Functions artifacts
+bin/Debug/net*/functions
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+Icon?
+
+# JetBrains Rider workspace
+*.sln.iml
+
+# Coverage & test results
+.coverage
+.coveragexml
+TestResults/
+
+# Dotnet tools
+.dotnet/tools/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local environment files (uncommitted configs)
+appsettings.*.json
+
+# Scripts output (if any executables are produced)
+/scripts/*.exe
